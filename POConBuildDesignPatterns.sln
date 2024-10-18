@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POConBuildDesignPatterns", "POConBuildDesignPatterns\POConBuildDesignPatterns.csproj", "{9C3E97E7-EFAE-4E16-B7EF-E65BBD09AC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3E97E7-EFAE-4E16-B7EF-E65BBD09AC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3E97E7-EFAE-4E16-B7EF-E65BBD09AC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3E97E7-EFAE-4E16-B7EF-E65BBD09AC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3E97E7-EFAE-4E16-B7EF-E65BBD09AC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A34163B-D7FE-4A5D-9941-8E86D89A7687}
+	EndGlobalSection
+EndGlobal
